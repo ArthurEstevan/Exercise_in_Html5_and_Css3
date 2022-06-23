@@ -1,0 +1,30 @@
+
+body {
+    background-color: gray  ;
+    text-align: center;
+}
+
+.titulo {
+    font-size: 5ch;
+    font-family: Tahoma; 
+    color: blue;
+}
+
+.imagem img{
+    margin: 10px;
+    border: thin solid;
+    width: 50%;
+}
+
+.poema p{
+    font-size: 3ch;
+    font-family: Arial;
+}
+
+.autor p{
+    margin: 50px;
+    font-size: 3ch;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bolder;
+}
