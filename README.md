@@ -8,7 +8,6 @@
 > - Css
 > - Bootstrap
 
-![Gif Entra21](https://raw.githubusercontent.com/seiler-emerson/Entra21_Logica_Java_2022/main/gif/entra21.gif)
 
 ![Exercises](https://github.com/ArthurEstevan/Exercise_in_HTML/blob/main/Atualizacao.png)
 
