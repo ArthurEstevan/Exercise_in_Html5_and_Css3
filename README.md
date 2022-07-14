@@ -1,9 +1,19 @@
 # Repository with Exercises in HTML
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHx6nL5zgHpfBdndw4CopiH2tp1hoOtBNTQ&usqp=CAU" width="200" height="200" />
+## Repository with several exercises in html and css
+
+> Practical content carried out in the classroom during the Entra21 project
+> In additive learning opportunities at:
+> - Html
+> - Css
+> - Bootstrap
+
+![Gif Entra21](https://raw.githubusercontent.com/seiler-emerson/Entra21_Logica_Java_2022/main/gif/entra21.gif)
+
+## Exercícios
 
 | EXERCISE | STATEMENT |
-|------|---------|
+|---------|---------|
 |Exercise 001|[Headers](./Exercise_01/)
 |Exercise 002|[Paragraph](./Exercise_02/)
 |Exercise 003|[Image Align](./Exercise_03/)
@@ -23,6 +33,14 @@
 |Exercise 019|[Page](./Exercise_19/)
 |Exercise 020|[Hospital Rules](./Exercise_20/)
 
-## References
-[Click Here](https://paginas.fe.up.pt/~ci07041/scc/trabalhos.html)
+## 🎫 Bonus
+
+```
+Learning first code in Html 'Hello world':
+
+<p>Hello World</p>
+```
+
+## 📚 References 
+[Exercícios de Html](https://paginas.fe.up.pt/~ci07041/scc/trabalhos.html)
 
