@@ -8,7 +8,7 @@
 > - **_CSS - Cascading Style Sheets._**
 > - **_BOOTSTRAP - Framework Front-End._**
 
-![Exercises](https://github.com/ArthurEstevan/Exercise_in_HTML/blob/main/lista_de_exercicios.png)
+![Exercises](./lista.png)
 
 ## 🎫 _Bonus_
 
