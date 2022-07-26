@@ -1,0 +1,26 @@
+
+/* Go back */
+
+a:link,
+a:visited {
+
+    background-color: #0cb0e2;
+    width: 20%;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2ch;
+    font-family: 'Lucida Sans';
+    border-radius: 6px;
+}
+
+a:hover {
+    background: gold;
+    color: white;
+}
+
+body {
+    background-image: linear-gradient(to right, #ffe8d1, #ead0b8, #d6b8a1, #c2a08a, #ae8974);
+}

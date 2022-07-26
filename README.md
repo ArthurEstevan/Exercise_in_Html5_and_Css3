@@ -1,4 +1,4 @@
-# _Html and Css ![](./html.png)![](./arquivo-css.png)_
+# _Html and Css ![](./icons/html.png)![](./icons/arquivo-css.png)_
 
 ## _Repository with several exercises in html and css_
 
@@ -8,7 +8,7 @@
 > - **_CSS - Cascading Style Sheets._**
 > - **_BOOTSTRAP - Framework Front-End._**
 
-![Exercises](./lista.png)
+![Exercises](./icons/lista.png)
 
 ## 🎫 _Bonus_
 
