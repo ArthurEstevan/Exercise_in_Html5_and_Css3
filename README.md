@@ -1,4 +1,4 @@
-# _Html and Css ![](./icons/html.png)![](./icons/arquivo-css.png)_
+# _Html5 and Css3 ![](./icons/html.png)![](./icons/arquivo-css.png)_
 
 ## _Repository with several exercises in html and css_
 
